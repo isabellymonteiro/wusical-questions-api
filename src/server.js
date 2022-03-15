@@ -4,7 +4,7 @@ const mongoose = require('mongoose')
 const questionsRouter = require('./routes/questions')
 const cors = require('cors')
 
-require('dotenv').config()
+// require('dotenv').config()
 
 app.use(cors())
 app.use(express.json())
