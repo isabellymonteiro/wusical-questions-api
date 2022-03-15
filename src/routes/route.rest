@@ -1,0 +1,45 @@
+GET http://localhost:3000/questions
+
+###
+
+GET http://localhost:3000/questions/amount?total=2
+
+###
+
+GET http://localhost:3000/questions/622cc783ab6b121e4413725a
+
+###
+
+POST http://localhost:3000/questions
+Content-Type: application/json
+
+{
+  "description": "Qual música é a mais tocada em um dia no Spotify? (atualizado por último em abril de 2022)",
+  "incorrect_answers": ["All I Want for Christmas - Mariah Carey", "drivers license - Olivia Rodrigo", "Levitating - Dua Lipa"],
+  "correct_answer": "Easy On Me - Adele",
+  "hint": "A primeira música a fazer sucesso da artista é 'Chasing Pavements'",
+  "translations": {
+    "en": {
+      "description": "Which song is Spotify's most streamed song in a day? (last updated in April 2022)",
+      "hint": "The artist's first hit song is 'Chasing Pavements'"
+    }
+  }
+}
+
+###
+
+DELETE http://localhost:3000/questions/622d048e48b55c8b48dd7ebc
+
+###
+
+PATCH http://localhost:3000/questions/aaaaaa
+Content-Type: application/json
+
+{
+  "hint": "Ela também é apresentadora de um talk show",
+  "translations": {
+    "en": {
+      "hint": "She is also a talk show host"
+    }
+  }
+}
