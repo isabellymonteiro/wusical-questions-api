@@ -7,7 +7,7 @@ Women in music questions API or Wusical questions API is for quiz/trivia apps. I
 ## Tools
 
 <div style="display: inline_block">
-  <img height="30" width="90" alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-000000?style=flat-square&logo=Node.js" />
+  <img height="30" width="90" alt="Nodejs" src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=Node.js" />
   <img height="30" width="90" alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express" />
   <img height="30" width="90" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb" />
   <img height="30" width="90" alt="npm" src="https://img.shields.io/badge/npm-000000?style=flat-square&logo=npm" />
