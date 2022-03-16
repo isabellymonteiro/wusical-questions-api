@@ -1,7 +1,7 @@
-# Women in music questions API :musical_note:
+# Wusical questions API :musical_note:
 
 ## Description
-Women in music questions API or Wusical API is for quiz/trivia apps. It has questions (PT-BR/EN) about female artists in music, from Aretha Franklin to Dua Lipa.
+Women in music questions API or Wusical API is for quiz/trivia apps. It has questions, multiple choice answers and respective hints (PT-BR/EN) about female artists in music, from Aretha Franklin to Dua Lipa.
 #### Deployed in Heroku: [Wusical API](https://wusical-questions-api.herokuapp.com/questions)
 
 ## Tools
