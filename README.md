@@ -34,7 +34,7 @@ URL | HTTP VERB | RESULT | ADMIN ONLY?
 4. Now you need to create and configure the database you are going to use. I used MongoDB and you can do the same (it's free) following these steps:
     * Install MongoDB, tutorial: [How To Install MongoDB In 2 Minutes](https://www.youtube.com/watch?v=wcx3f0eUiAw&list=PLZlA0Gpn_vH9KXLvfhRS1J10UJZ0bZTj9)
     * Sign up, create cluster, add database user and IP address (you can allow access from anywhere). No need to load sample data. To do that, tutorial (1:34 to 4:25): [Intro to MongoDB Atlas](https://www.youtube.com/watch?v=xrc7dIO_tXk&list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV)
-    * Go to 'Deployment / Database' and click on 'Browse Collections'
+    * Go to 'Deployment / Databases' and click on 'Browse Collections'
 ![image](https://user-images.githubusercontent.com/82273361/158882986-787b5b1a-63f7-40d9-807f-b3aea57e7a19.png)
     * After that, click on 'Create Database' and type the name of the database and collection (you choose, ex.: Wusical (database) and questions (collection))
 5. Let's load some data. Install MongoDB Compass and connect to your cluster (1:38 to 2:38 of the tutorial: [Compass](https://www.youtube.com/watch?v=YBOiX8DwinE&list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV), remember to replace with your username and password. After connecting, click on your database, then click on your collection and then on 'Import Data'. Select the file ``questionsData.json`` that is in this repository
