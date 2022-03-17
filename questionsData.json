@@ -1,0 +1,302 @@
+[
+ {
+    "description": "Qual cantora ficou famosa através da música ‘drivers license’ em 2021?",
+    "incorrect_answers": ["Sabrina Carpenter", "Vanessa Hudgens", "Zendaya"],
+    "correct_answer": "Olivia Rodrigo",
+    "hint": "Ela atuou na série ‘High School Musical: The Musical: The Series’",
+    "translations": {
+      "en": {
+        "description": "Which singer became famous for the song ‘drivers license’ in 2021?",
+        "hint": "She played Nini in ‘High School Musical: The Musical: The Series’"
+      }
+    }
+  },
+  {
+    "description": "A música ‘Hollaback Girl’ pertence a qual cantora?",
+    "incorrect_answers": ["Rihanna", "Nicki Minaj", "Cyndi Lauper"],
+    "correct_answer": "Gwen Stefani",
+    "hint": "Ela já foi jurada no 'The Voice'",
+    "translations": {
+      "en": {
+        "description": "Who recorded the song ‘Hollaback Girl’",
+        "hint": "She was a coach on 'The Voice'"
+      }
+    }
+  },
+  {
+    "description": "Qual foi a música mais tocada no Spotify em 2021?",
+    "incorrect_answers": ["Levitating (feat. DaBaby)", "All Too Well (10 Minute Version)", "Kiss Me More (feat. SZA)"],
+    "correct_answer": "drivers license",
+    "hint": "A cantora tinha apenas 17 anos quando a música foi lançada",
+    "translations": {
+      "en": {
+        "description": "Which was Spotify's most streamed song in 2021?",
+        "hint": "The artist was only 17 years old when the song was released"
+      }
+    }
+  },
+  {
+    "description": "Qual foi o álbum mais tocado no Spotify em 2021?",
+    "incorrect_answers": ["Red (Taylor's Version) - Taylor Swift", "Planet Her - Doja Cat", "Future Nostalgia - Dua Lipa"],
+    "correct_answer": "SOUR - Olivia Rodrigo",
+    "hint": "A primeira música a fazer sucesso da artista é 'Chasing Pavements'",
+    "translations": {
+      "en": {
+        "description": "Which was Spotify's most streamed album in 2021?",
+        "hint": "The album was released on May 21st"
+      }
+    }
+  },
+  {
+    "description": "A música 'Wannabe' pertence a qual grupo musical?",
+    "incorrect_answers": ["Destiny's Child", "The Pussycat Dolls", "Blackpink"],
+    "correct_answer": "Spice Girls",
+    "hint": "A música foi lançada em 1996",
+    "translations": {
+      "en": {
+        "description": "Which group the song 'Wannabe' belongs to?",
+        "hint": "The song was released in 1996"
+      }
+    }
+  },
+  {
+    "description": "Quem compôs e canta as músicas 'Ironic' e 'You Oughta Know'?",
+    "incorrect_answers": ["Madonna", "Céline Dion", "Fiona Apple"],
+    "correct_answer": "Alanis Morissette",
+    "hint": "As músicas são do álbum Jagged Little Pill (1995)",
+    "translations": {
+      "en": {
+        "description": "Who wrote and recorded the songs 'Ironic' and 'You Oughta Know'?",
+        "hint": "The songs are on the album Jagged Little Pill (1995)"
+      }
+    }
+  },
+  {
+    "description": "De qual grupo são as músicas 'Survivor' e 'Say My Name'?",
+    "incorrect_answers": ["Spice Girls", "Fifth Harmony", "The Pussycat Dolls"],
+    "correct_answer": "Destiny's Child",
+    "hint": "Beyoncé foi uma das integrantes desse grupo",
+    "translations": {
+      "en": {
+        "description": "Which group recorded the songs 'Survivor' and 'Say My Name'?",
+        "hint": "Beyoncé was part of this group"
+      }
+    }
+  },
+  {
+    "description": "A música 'The Steps' (2020) pertence a qual banda?",
+    "incorrect_answers": ["Cimorelli", "Chloe x Halle", "Aly & AJ"],
+    "correct_answer": "Haim",
+    "hint": "A banda é composta por irmãs e possui várias indicações ao Grammy",
+    "translations": {
+      "en": {
+        "description": "Which band recorded the song 'The Steps' (2020)?",
+        "hint": "The band is composed of sisters and has several Grammy nominations"
+      }
+    }
+  },
+  {
+    "description": "Qual música é a mais tocada em um dia no Spotify? (atualizado por último em abril de 2022)",
+    "incorrect_answers": ["All I Want for Christmas - Mariah Carey", "drivers license - Olivia Rodrigo", "Levitating - Dua Lipa"],
+    "correct_answer": "Easy On Me - Adele",
+    "hint": "A primeira música a fazer sucesso da artista é 'Chasing Pavements'",
+    "translations": {
+      "en": {
+        "description": "Which song is Spotify's most streamed song in a day? (last updated in April 2022)",
+        "hint": "The artist's first hit song is 'Chasing Pavements'"
+      }
+    }
+  },
+  {
+    "description": "Quem canta a música 'Man! I Feel Like a Woman'?",
+    "incorrect_answers": ["Britney Spears", "Rihanna", "Lizzo"],
+    "correct_answer": "Shania Twain",
+    "hint": "Outra música famosa da artista é 'You're Still The One'",
+    "translations": {
+      "en": {
+        "description": "Who recorded the hit song 'Man! I Feel Like a Woman'?",
+        "hint": "Another hit song by this artist is 'You're Still The One'"
+      }
+    }
+  },
+  {
+    "description": "'Respect' e 'I Say A Little Prayer' são músicas de qual cantora?",
+    "incorrect_answers": ["Whitney Houston", "Nina Simone", "Céline Dion"],
+    "correct_answer": "Aretha Franklin",
+    "hint": "A artista é a primeira mulher a entrar no Hall da Fama do Rock & Roll",
+    "translations": {
+      "en": {
+        "description": "The songs 'Respect' and 'I Say A Little Prayer' were recorded by which singer?",
+        "hint": "The artist is the first woman inducted into the Rock & Roll Hall of Fame"
+      }
+    }
+  },
+  {
+    "description": "Quem compôs e canta a música 'Balance ton quoi'?",
+    "incorrect_answers": ["Céline Dion", "Aya Nakamura", "Pomme"],
+    "correct_answer": "Angèle",
+    "hint": "A artista belga foi a cantora francófona mais ouvida em 2019",
+    "translations": {
+      "en": {
+        "description": "'Balance ton quoi' was written and recorded by which singer?",
+        "hint": "The Belgian artist was the most-streamed French-speaking singer in 2019"
+      }
+    }
+  },
+  {
+    "description": "Qual artista ficou famosa em 2013 com a música 'Royals'?",
+    "incorrect_answers": ["Sigrid", "P!nk", "Ellie Goulding"],
+    "correct_answer": "Lorde",
+    "hint": "A cantora e compositora neozelandesa se destaca por seu estilo único de performar",
+    "translations": {
+      "en": {
+        "description": "Which artist became famous in 2013 for the song 'Royals'?",
+        "hint": "The New Zealand singer-songwritter has become known for her unique performance style"
+      }
+    }
+  },
+  {
+    "description": "Quais músicas pertencem à cantora Alicia Keys?",
+    "incorrect_answers": ["Halo, Crazy in Love", "Umbrella, Diamonds", "Wide Awake, Thinking of You"],
+    "correct_answer": "If I Ain't Got You, Girl on Fire",
+    "hint": "'Some people want it all, But I don't want nothing at all...'",
+    "translations": {
+      "en": {
+        "description": "Which songs belong to Alicia Keys?",
+        "hint": "'Some people want it all, But I don't want nothing at all...'"
+      }
+    }
+  },
+  {
+    "description": "'Since U Been Gone' e 'Stronger' são músicas de qual cantora?",
+    "incorrect_answers": ["Christina Aguilera", "Britney Spears", "Sara Bareilles"],
+    "correct_answer": "Kelly Clarkson",
+    "hint": "Ela é apresentadora de um talk show",
+    "translations": {
+      "en": {
+        "description": "The songs 'Since U Been Gone' and 'Stronger' were recorded by which singer?",
+        "hint": "She is a talk show host"
+      }
+    }
+  },
+  {
+    "description": "Quem canta 'Replay' (2013)?",
+    "incorrect_answers": ["Miley Cyrus", "Sofia Carson", "Selena Gomez"],
+    "correct_answer": "Zendaya",
+    "hint": "Ela é a protagonista da série 'Euphoria'",
+    "translations": {
+      "en": {
+        "description": "Who recorded 'Replay' (2013)?",
+        "hint": "She is the protagonist of 'Euphoria'"
+      }
+    }
+  },
+  {
+    "description": "Quem é a vocalista principal da banda 'Paramore'?",
+    "incorrect_answers": ["Stevie Nicks", "Amy Lee", "Joni Mitchell"],
+    "correct_answer": "Hayley Williams",
+    "hint": "O primeiro álbum solo da artista é 'Petals for Armor' (2020)",
+    "translations": {
+      "en": {
+        "description": "Who is the lead singer of the band 'Paramore'?",
+        "hint": "Her first solo album is called 'Petals for Armor' (2020)"
+      }
+    }
+  },
+  {
+    "description": "Qual integrante de Fith Harmony saiu do grupo em 2016?",
+    "incorrect_answers": ["Lauren Jauregui", "Normani", "Jesy Nelson"],
+    "correct_answer": "Camila Cabello",
+    "hint": "Uma de suas músicas mais tocadas é 'Havana' (2018)",
+    "translations": {
+      "en": {
+        "description": "Which Fifth Harmony member left the group in 2016?",
+        "hint": "One of her most famous songs is 'Havana' (2018)"
+      }
+    }
+  },
+  {
+    "description": "'Womanizer' e 'Oops! ... Did It Again' são músicas de qual cantora?",
+    "incorrect_answers": ["Christina Aguilera", "Madonna", "Beyoncé"],
+    "correct_answer": "Britney Spears",
+    "hint": "Seu pai foi considerado 'Toxic'",
+    "translations": {
+      "en": {
+        "description": "The songs 'Womanizer' and 'Oops! ... Did It Again' were recorded by which singer?",
+        "hint": "Her father was considered 'Toxic"
+      }
+    }
+  },
+  {
+    "description": "Qual cantora nasceu no país Barbados?",
+    "incorrect_answers": ["Shakira", "Nicki Minaj", "Rita Ora"],
+    "correct_answer": "Rihanna",
+    "hint": "Ela saiu do país quando tinha 16 anos e seu primeiro nome é Robyn",
+    "translations": {
+      "en": {
+        "description": "Which singer was born in Barbados?",
+        "hint": "She left the country when she was 16 and her first name is Robyn"
+      }
+    }
+  },
+  {
+    "description": "Qual cantora usa seu nome real como nome artístico?",
+    "incorrect_answers": ["Anitta", "Lady Gaga", "Katy Perry"],
+    "correct_answer": "Dua Lipa",
+    "hint": "Esse é o nome completo da artista",
+    "translations": {
+      "en": {
+        "description": "Which singer uses their real name?",
+        "hint": "This is the artist's full name"
+      }
+    }
+  },
+  {
+    "description": "Quem lançou o álbum 'Back to Black' (2006)?",
+    "incorrect_answers": ["Alicia Keys", "Avril Lavigne", "Jessie J"],
+    "correct_answer": "Amy Winehouse",
+    "hint": "Ela nasceu no Reino Unido",
+    "translations": {
+      "en": {
+        "description": "Who released the album 'Back to Black' (2006)?",
+        "hint": "She was born in England"
+      }
+    }
+  },
+  {
+    "description": "Quem lançou o álbum 'Thank U, Next' (2019)?",
+    "incorrect_answers": ["Doja Cat", "Miley Cyrus", "Cardi B"],
+    "correct_answer": "Ariana Grande",
+    "hint": "Ela foi jurada na 21ª temporada do 'The Voice'",
+    "translations": {
+      "en": {
+        "description": "Who released the album 'Thank U, Next' (2019)?",
+        "hint": "She was a judge on the 21st season of 'The Voice'"
+      }
+    }
+  },
+  {
+    "description": "Quem lançou o álbum 'Plastic Hearts' (2020)?",
+    "incorrect_answers": ["Taylor Swift", "Charli XCX", "Megan Thee Stallion"],
+    "correct_answer": "Miley Cyrus",
+    "hint": "'Angels Like You' é uma das músicas do álbum",
+    "translations": {
+      "en": {
+        "description": "Who released the album 'Plastic Hearts' (2020)?",
+        "hint": "'Angels Like You' is one of the songs on the album"
+      }
+    }
+  },
+  {
+    "description": "Qual dessas músicas não faz parte do álbum 'Future Nostalgia' (2020) de Dua Lipa?",
+    "incorrect_answers": ["Levitating", "Physical", "Don't Start Now"],
+    "correct_answer": "New Rules",
+    "hint": "A música foi lançada em 2018",
+    "translations": {
+      "en": {
+        "description": "Which of these is not a song on the album 'Future Nostalgia' (2020) by Dua Lipa?",
+        "hint": "The song was released in 2008"
+      }
+    }
+  }
+]
