@@ -37,7 +37,7 @@ URL | HTTP VERB | RESULT | ADMIN ONLY?
     * Go to 'Deployment / Databases' and click on 'Browse Collections'
 ![image](https://user-images.githubusercontent.com/82273361/158882986-787b5b1a-63f7-40d9-807f-b3aea57e7a19.png)
     * After that, click on 'Create Database' and type the name of the database and collection (you choose, ex.: Wusical (database) and questions (collection))
-5. Let's load some data. Install MongoDB Compass and connect to your cluster (1:38 to 2:38 of the tutorial: [Compass](https://www.youtube.com/watch?v=YBOiX8DwinE&list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV), remember to replace with your username and password. After connecting, click on your database, then click on your collection and then on 'Import Data'. Select the file ``questionsData.json`` that is in this repository
+5. Let's load some data. Install MongoDB Compass and connect to your cluster (1:38 to 2:38 of the tutorial: [Compass](https://www.youtube.com/watch?v=YBOiX8DwinE&list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV)), remember to replace with your username and password. After connecting, click on your database, then click on your collection and then on 'Import Data'. Select the file ``questionsData.json`` that is in this repository
 6. You are almost there! Now go back to 'Deployment / Database' (on MongoDB web) and click 'Connect'. Click on 'Connect your application' and copy your connection string
 7. Create a ``.env`` file in the project root directory and add the database user and password you have just created (replace < username > and < password >). You should also replace 'myFirstDatabase...' (and all that is in front of it) with the name of the database and collection you have chosen. For example, if the database name is 'Wusical' and the colletion name is 'questions': ``DATABASE_URL=mongodb+srv://<username>:<password>@cluster0.sevwv.mongodb.net/wusical-questions``. Also, specify your port, ex.: PORT=5000. The ``.env`` file should look like this (replace < username > and < password >):
 ![image](https://user-images.githubusercontent.com/82273361/158887354-ac4d9b5f-c2b1-41a5-9dcf-4d693f7d439e.png)
@@ -49,6 +49,6 @@ URL | HTTP VERB | RESULT | ADMIN ONLY?
     * You can do it by clicking on the *Fork* button at the top of this page. This will create a copy of this repository in your Github account
     * Now clone the forked repository (in your Github account) to your machine.
 2. Create a new branch to add your changes: ``git checkout -b your-branch-name``
-3. Commit your changes: add them with ``git add .`` and commit them with ``git commit -m "specify the feature you added``
+3. Commit your changes: add them with ``git add .`` and commit them with ``git commit -m "specify the feature you added"``
 4. Push your changes with ``git push origin <add-your-branch-name>``
 5. Submit your changes for review: go to your repository on Github and you will see 'Compare and pull request'. Click on that and at the bottom of the page click on 'Create pull request'.
