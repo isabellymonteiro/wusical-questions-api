@@ -298,5 +298,77 @@
         "hint": "The song was released in 2008"
       }
     }
+  },
+  {
+    "description": "Quais álbuns a cantora Taylor Swift regravou em 2021?",
+    "incorrect_answers": ["'Fearless', 'Reputation'", "'Red', '1989'", "'1989', 'Reputation'"],
+    "correct_answer": "'Fearless', 'Red'",
+    "hint": "As músicas 'Love Story' e 'I Knew You Were Trouble' estão neles, respectivamente",
+    "translations": {
+      "en": {
+        "description": "What albums did Taylor Swift re-record in 2021?",
+        "hint": "The songs 'Love Story' and 'I Knew You Were Trouble' are on the albums, respectively"
+      }
+    }
+  },
+  {
+    "description": "Quem compôs e gravou a música 'Alaska' (2016)?",
+    "incorrect_answers": ["Phoebe Bridgers", "Clairo", "King Princess"],
+    "correct_answer": "Maggie Rogers",
+    "hint": "A música deixou Pharrell Williams sem palavras durante uma masterclass na Universidade de Nova York",
+    "translations": {
+      "en": {
+        "description": "Who wrote and recorded the song 'Alaska' (2016)?",
+        "hint": "The song left Pharrell Williams speechless during a masterclass at New York University"
+      }
+    }
+  },
+  {
+    "description": "Qual foi a primeira música a fazer sucesso da cantora Billie Eilish?",
+    "incorrect_answers": ["bad guy", "idontwannabeyouanymore", "Bellyache"],
+    "correct_answer": "Ocean Eyes",
+    "hint": "A música foi lançada em 2016, quando ela tinha 14 anos",
+    "translations": {
+      "en": {
+        "description": "What was Billie Eilish's first hit song?",
+        "hint": "The song was released in 2016, when she was 14 years old"
+      }
+    }
+  },
+  {
+    "description": "De qual grupo musical a cantora Lauryn Hill fazia parte?",
+    "incorrect_answers": ["No Doubt", "The Cranberries", "Garbage"],
+    "correct_answer": "Fugees",
+    "hint": "O grupo gravou a música 'Killing Me Softly With His Song'",
+    "translations": {
+      "en": {
+        "description": "What group was Lauryn Hill in?",
+        "hint": "They recorded the song 'Killing Me Softly With His Song'"
+      }
+    }
+  },
+  {
+    "description": "Quem compôs e canta as músicas 'Fuckin' Perfect' e 'What About Us'?",
+    "incorrect_answers": ["Hayley Williams", "Rihanna", "Jessie J"],
+    "correct_answer": "P!nk",
+    "hint": "Ela participou de vários filmes",
+    "translations": {
+      "en": {
+        "description": "Who wrote and recorded the songs 'Fuckin' Perfect' and 'What About Us'?",
+        "hint": "She has been in multiple movies"
+      }
+    }
+  },
+  {
+    "description": "Quem canta a música 'Fancy' ft. Charli XCX (2014)?",
+    "incorrect_answers": ["Sia", "Lorde", "Katy Perry"],
+    "correct_answer": "Iggy Azalea",
+    "hint": "Ela é australiana",
+    "translations": {
+      "en": {
+        "description": "Who recorded the song 'Fancy' ft. Charli XCX (2014)?",
+        "hint": "She is Australian"
+      }
+    }
   }
 ]
