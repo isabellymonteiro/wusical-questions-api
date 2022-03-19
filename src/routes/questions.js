@@ -11,8 +11,9 @@ router.get('/', async (req, res) => {
   }
 })
 
-router.get('/amount', async (req, res) => {
-  const TOTAL = parseInt(req.query.total)
+router.get('/amount/:total', async (req, res) => {
+  const TOTAL = parseInt(req.params.total)
+  console.log(TOTAL)
   let questions
   try {
     questions = await Question.aggregate([{ $sample: { size: TOTAL }}])
