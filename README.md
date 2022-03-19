@@ -19,7 +19,7 @@ Women in music questions API or Wusical questions API is for quiz/trivia apps. I
 URL | HTTP VERB | RESULT | ADMIN ONLY?
 --- | --- | --- | ---
 /questions | GET | return all questions | No
-/questions/amount?total={quantity} | GET | return random questions according to quantity (2, 5, 10...) | No
+/questions/amount/:total | GET | return random questions according to total (2, 5, 10...) | No
 /questions/:id | GET | return a specific question | No
 /questions | POST | create a new question | Yes
 /quesitons/:id | PATCH | update a specific question | Yes
