@@ -370,5 +370,53 @@
         "hint": "She is Australian"
       }
     }
+  },
+  {
+    "description": "Qual desses é um álbum da cantora Katy Perry?",
+    "incorrect_answers": ["Glory", "Lemonade", "Like a Prayer"],
+    "correct_answer": "Teenage Dream",
+    "hint": "Ele foi lançado em 2010",
+    "translations": {
+      "en": {
+        "description": "Which of the following is an album by Katy Perry?",
+        "hint": "It was released in 2010"
+      }
+    }
+  },
+  {
+    "description": "Qual dessas cantoras fazia parte da banda Fleetwood Mac?",
+    "incorrect_answers": ["Courtney Love", "Chrissie Hynde", "Debbie Harry"],
+    "correct_answer": "Stevie Nicks",
+    "hint": "Ela escreveu a música 'Landslide' quando tinha 27 anos",
+    "translations": {
+      "en": {
+        "description": "Which of these singers was in the band Fleetwood Mac?",
+        "hint": "She wrote 'Landslide' when she was 27 years old"
+      }
+    }
+  },
+  {
+    "description": "Quem compôs e canta a música 'Chandelier' (2014)?",
+    "incorrect_answers": ["Christina Aguilera", "Lady Gaga", "Katy Perry"],
+    "correct_answer": "Sia",
+    "hint": "Ela escondeu seu rosto atrás de perucas por muito tempo quando estava na frente das câmeras",
+    "translations": {
+      "en": {
+        "description": "Who wrote and recorded the song 'Chandelier' (2014)?",
+        "hint": "She has hidden her face behind wigs for a long time when in front of cameras"
+      }
+    }
+  },
+  {
+    "description": "Quem canta a música 'Good as Hell' (2016)?",
+    "incorrect_answers": ["Lady Gaga", "Ariana Grande", "Doja Cat"],
+    "correct_answer": "Lizzo",
+    "hint": "Seu nome real é Melissa Vivianne Jefferson",
+    "translations": {
+      "en": {
+        "description": "Who recorded the song 'Good as Hell' (2016)?",
+        "hint": "Her real name is Melissa Vivianne Jefferson"
+      }
+    }
   }
 ]
