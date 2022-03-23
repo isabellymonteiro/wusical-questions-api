@@ -418,5 +418,65 @@
         "hint": "Her real name is Melissa Vivianne Jefferson"
       }
     }
+  },
+  {
+    "description": "Qual é o álbum de estreia da cantora Olivia Rodrigo?",
+    "incorrect_answers": ["Sweet", "Happier Than Ever", "17"],
+    "correct_answer": "Sour",
+    "hint": "Ele foi lançado em 2021",
+    "translations": {
+      "en": {
+        "description": "What is Olivia Rodrigo's debut album?",
+        "hint": "It was released in 2021"
+      }
+    }
+  },
+  {
+    "description": "De quem é o álbum 'Like a Prayer'?",
+    "incorrect_answers": ["Kate Bush", "Lady Gaga", "Tina Turner"],
+    "correct_answer": "Madonna",
+    "hint": "O álbum foi lançado em 1989",
+    "translations": {
+      "en": {
+        "description": "Who released the album 'Like a Prayer'?",
+        "hint": "The album was released in 1989"
+      }
+    }
+  },
+  {
+    "description": "Quem canta as músicas 'Flashlight' e 'Who You Are'?",
+    "incorrect_answers": ["Anna Kendrick", "Sia", "Nicki Minaj"],
+    "correct_answer": "Jessie J",
+    "hint": "Ela já raspou a cabeça para arrecar dinheiro para projetos de caridade",
+    "translations": {
+      "en": {
+        "description": "Who recorded the songs 'Flashlight' and 'Who You Are'?",
+        "hint": "She has shaved her head for charity"
+      }
+    }
+  },
+  {
+    "description": "Qual é o primeiro single da cantora Colbie Caillat?",
+    "incorrect_answers": ["Fallin' For You", "Try", "Brighter Than The Sun"],
+    "correct_answer": "Bubbly",
+    "hint": "A música também é considerada a mais famosa da artista",
+    "translations": {
+      "en": {
+        "description": "What is Colbie Caillat's debut single?",
+        "hint": "The song is also considered to be her biggest hit"
+      }
+    }
+  },
+  {
+    "description": "Qual álbum da cantora Adele inclui as músicas 'Rolling in the Deep' e 'Someone Like You' ?",
+    "incorrect_answers": ["25", "19", "30"],
+    "correct_answer": "21",
+    "hint": "O álbum foi lançado em 2011",
+    "translations": {
+      "en": {
+        "description": "Which album by Adele featured the songs 'Rolling in the Deep' and 'Someone Like You'?",
+        "hint": "It was released in 2011"
+      }
+    }
   }
 ]
