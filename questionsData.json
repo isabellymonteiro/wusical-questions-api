@@ -468,7 +468,7 @@
     }
   },
   {
-    "description": "Qual álbum da cantora Adele inclui as músicas 'Rolling in the Deep' e 'Someone Like You' ?",
+    "description": "Qual álbum da cantora Adele inclui as músicas 'Rolling in the Deep' e 'Someone Like You'?",
     "incorrect_answers": ["25", "19", "30"],
     "correct_answer": "21",
     "hint": "O álbum foi lançado em 2011",
@@ -476,6 +476,66 @@
       "en": {
         "description": "Which album by Adele featured the songs 'Rolling in the Deep' and 'Someone Like You'?",
         "hint": "It was released in 2011"
+      }
+    }
+  },
+  {
+    "description": "A música 'Big Yellow Taxi' foi escrita e gravada por qual artista?",
+    "incorrect_answers": ["Alanis Morissette", "Vanessa Carlton", "Carole King"],
+    "correct_answer": "Joni Mitchell",
+    "hint": "Ela é canadense",
+    "translations": {
+      "en": {
+        "description": "'Big Yellow Taxi' is a song written and recorded by which artist?",
+        "hint": "She is Canadian"
+      }
+    }
+  },
+  {
+    "description": "Quem canta a música 'I Can't Breathe' (2020)?",
+    "incorrect_answers": ["Beyoncé", "Janelle Monáe", "Alicia Keys"],
+    "correct_answer": "H.E.R.",
+    "hint": "A música ganhou o prêmio 'Song of the Year' no Grammy em 2021",
+    "translations": {
+      "en": {
+        "description": "Who recorded the song 'I Can't Breathe' (2020)??",
+        "hint": "The song won 'Song of the Year' at the 2021 Grammy Awards"
+      }
+    }
+  },
+  {
+    "description": "Quem escreveu as músicas 'I Will Always Love You' e 'Jolene'?",
+    "incorrect_answers": ["Whitney Houston", "Aretha Franklin", "Céline Dion"],
+    "correct_answer": "Dolly Parton",
+    "hint": "Ela também escreveu e canta a música '9 to 5'",
+    "translations": {
+      "en": {
+        "description": "Who wrote 'I Will Always Love You' and 'Jolene'?",
+        "hint": "She also wrote and recorded '9 to 5'"
+      }
+    }
+  },
+  {
+    "description": "Quem canta 'Bleeding Love' (2007)?",
+    "incorrect_answers": ["Mariah Carey", "Beyoncé", "Kelly Clarkson"],
+    "correct_answer": "Leona Lewis",
+    "hint": "Ela foi a vencedora do programa The X Factor em 2006",
+    "translations": {
+      "en": {
+        "description": "Who recorded 'Bleeding Love' (2007)?",
+        "hint": "She won The X Factor in 2006"
+      }
+    }
+  },
+  {
+    "description": "Quem escreveu e canta a música 'It's Too Late' (1971)?",
+    "incorrect_answers": ["Joni Mitchell", "Aretha Franklin", "Janis Joplin"],
+    "correct_answer": "Carole King",
+    "hint": "Ela também escreveu a música '(You Make Me Feel Like) A Natural Woman' juntamente com outros escritores",
+    "translations": {
+      "en": {
+        "description": "Who wrote and recorded 'It's Too Late' (1971)?",
+        "hint": "She also wrote '(You Make Me Feel Like) A Natural Woman' alongside other songwriters"
       }
     }
   }
