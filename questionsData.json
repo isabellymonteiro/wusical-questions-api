@@ -538,5 +538,65 @@
         "hint": "She also wrote '(You Make Me Feel Like) A Natural Woman' alongside other songwriters"
       }
     }
+  },
+  {
+    "description": "Quais músicas estão no álbum 'Here We Go Again' de Demi Lovato?",
+    "incorrect_answers": ["'Solo', 'Don't Forget'", "'La La Land', 'Get Back'", "'Fix a Heart', 'Here We Go Again'"],
+    "correct_answer": "'Remember December', 'Catch Me'",
+    "hint": "O álbum foi lançado em 2009",
+    "translations": {
+      "en": {
+        "description": "Which songs are on the album 'Here We Go Again' by Demi Lovato?",
+        "hint": "The album was released in 2009"
+      }
+    }
+  },
+  {
+    "description": "Quem lançou o álbum 'Born This Way' (2011)?",
+    "incorrect_answers": ["Kesha", "Katy Perry", "Jennifer Lopez"],
+    "correct_answer": "Lady Gaga",
+    "hint": "'Marry the Night' é uma das músicas do álbum",
+    "translations": {
+      "en": {
+        "description": "Who released the album 'Born This Way' (2011)?",
+        "hint": "'Marry the Night' is one of the songs on the album"
+      }
+    }
+  },
+  {
+    "description": "Quem canta a música 'TiK ToK'?",
+    "incorrect_answers": ["Doja Cat", "Katy Perry", "Dixie D'Amelio"],
+    "correct_answer": "Kesha",
+    "hint": "A música foi lançada em 2009",
+    "translations": {
+      "en": {
+        "description": "Who recorded the song 'TiK ToK'?",
+        "hint": "The song was released in 2009"
+      }
+    }
+  },
+  {
+    "description": "Qual dessas músicas foi gravada por Christina Aguilera?",
+    "incorrect_answers": ["Gimme More", "Hero", "Because of You"],
+    "correct_answer": "Genie In A Bottle",
+    "hint": "A música foi lançada em 1999",
+    "translations": {
+      "en": {
+        "description": "Which of these songs was recorded by Christina Aguilera?",
+        "hint": "The song was released in 1999"
+      }
+    }
+  },
+  {
+    "description": "Quem canta 'I'm With You' (2002)?",
+    "incorrect_answers": ["Kelly Clarkson", "Alicia Keys", "Christina Aguilera"],
+    "correct_answer": "Avril Lavigne",
+    "hint": "A música faz parte do álbum 'Let Go'",
+    "translations": {
+      "en": {
+        "description": "Who recorded 'I'm With You' (2002)?",
+        "hint": "The song is on the album 'Let Go'"
+      }
+    }
   }
 ]
