@@ -598,5 +598,29 @@
         "hint": "The song is on the album 'Let Go'"
       }
     }
+  },
+  {
+    "description": "Quem canta as músicas 'Most Girls' (2017) e 'Wrong Direction' (2020)?",
+    "incorrect_answers": ["Florence Pugh", "Ella Hunt", "Anna Kendrick"],
+    "correct_answer": "Hailee Steinfeld",
+    "hint": "Ela também é atriz e já atuou em Hawkeye (2021), Dickinson (2019 - 2021) e Pitch Perfect 2 (2015)",
+    "translations": {
+      "en": {
+        "description": "Who recorded 'Most Girls' (2017) and 'Wrong Direction' (2020)? ",
+        "hint": "She is also an actress and starred in Hawkeye (2021), Dickinson (2019 - 2021) and Pitch Perfect 2 (2015)"
+      }
+    }
+  },
+  {
+    "description": "Quem foi a primeira brasileira a alcançar o primeiro lugar no Top 50 global do Spotify?",
+    "incorrect_answers": ["Ivete Sangalo", "Ludmilla", "IZA"],
+    "correct_answer": "Anitta",
+    "hint": "Ela fez isso em 2022 através da música 'Envolver'",
+    "translations": {
+      "en": {
+        "description": "Who is the first Brazilian to top Spotify's global chart?",
+        "hint": "She did it in 2022 with the song 'Envolver'"
+      }
+    }
   }
 ]
