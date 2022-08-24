@@ -5,7 +5,7 @@ const Question = require('../models/question')
 router.get('/', async (req, res) => {
   try {
     const questions = await Question.find()
-    res.json(questions)
+    res.status(200).json(questions)
   } catch (err) {
     res.status(500).json({ message: err.message })
   }
@@ -13,14 +13,14 @@ router.get('/', async (req, res) => {
 
 router.get('/amount/:total', async (req, res) => {
   const TOTAL = parseInt(req.params.total)
-  console.log(TOTAL)
+  
   let questions
   try {
     questions = await Question.aggregate([{ $sample: { size: TOTAL }}])
   } catch(err) {
     return res.status(500).json({ message: err.message })
   }
-  res.json(questions)
+  res.status(200).json(questions)
 })
 
 
